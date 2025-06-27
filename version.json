@@ -1,15 +1,5 @@
-{
-  "version": "1.0.4",
-  "force_update": false,
-  "message": "New version available with bug fixes and improvements",
-  "release_notes": [
-    "Bug fixes and performance improvements",
-    "Enhanced user experience",
-    "Security updates"
-  ],
-  "min_required_version": "1.0.0",
-  "update_url": {
-    "android": "https://play.google.com/store/apps/details?id=com.gemtechparas.tenderapp",
-    "ios": "https://apps.apple.com/in/app/gemtech-govt-tenders-india/id6743735422"
+  {
+    "latest_version": "3.0.1",
+    "android_update_url": "https://pmcprojects.in",
+    "ios_update_url": "https://pmcprojects.in"
   }
-}
