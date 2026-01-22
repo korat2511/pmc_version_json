@@ -1,10 +1,16 @@
 {
-  "latest_version": "1.0.1",
-  "force_update": false,
-  "android_update_url": "https://pmcprojects.in",
-  "ios_update_url": "https://pmcprojects.in",
-  "android_play_store_url": "https://play.google.com/store/apps/details?id=com.pmcprojects.app",
-  "android_google_drive_url": "https://drive.google.com/file/d/your-file-id/view",
-  "ios_app_store_url": "https://apps.apple.com/app/your-app-id",
-  "ios_testflight_url": "https://testflight.apple.com/join/your-testflight-code"
+  "version": "1.0.1",
+  "android_force_update": true,
+  "ios_force_update": true,
+  "message": "New version available with bug fixes and improvements",
+  "release_notes": [
+    "Bug fixes and performance improvements",
+    "Enhanced user experience",
+    "Security updates"
+  ],
+  "min_required_version": "1.0.0",
+  "update_url": {
+    "android": "https://play.google.com/store/apps/details?id=com.gemtechparas.tenderapp",
+    "ios": "https://apps.apple.com/in/app/gemtech-govt-tenders-india/id6743735422"
+  }
 }
