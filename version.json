@@ -8,7 +8,7 @@
     "Enhanced user experience",
     "Security updates"
   ],
-  "min_required_version": "1.0.1",
+  "min_required_version": "1.0.2",
   "update_url": {
     "android": "https://play.google.com/store/apps/details?id=com.gemtechparas.tenderapp",
     "ios": "https://apps.apple.com/in/app/gemtech-govt-tenders-india/id6743735422"
