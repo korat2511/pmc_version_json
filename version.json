@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "android_force_update": false,
-  "ios_force_update": false,
+  "ios_force_update": true,
   "message": "New version available with bug fixes and improvements",
   "release_notes": [
     "Bug fixes and performance improvements",
     "Enhanced user experience",
     "Security updates"
   ],
-  "min_required_version": "1.0.2",
+  "min_required_version": "1.0.3",
   "update_url": {
     "android": "https://play.google.com/store/apps/details?id=com.corepmc.core_pmc",
     "ios": "https://apps.apple.com/us/app/core-pmc/id6751482084"
